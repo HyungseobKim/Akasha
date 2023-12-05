@@ -1,5 +1,4 @@
 # Akasha
-Senior year school project
 
 3D Strategy Game using Unreal Engine 4
 

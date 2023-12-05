@@ -1,7 +1,7 @@
 # Akasha
+Senior year school project
+3D Strategy Game using Unreal Engine 4
 
-3D / Strategy Game
-
-Unreal Engine 4
-
-AI and Pathfinidng
+What I worked on:
+- Pathfinding alogirthm on hex-grid.
+- AI player that can play strategic turn-based game.
